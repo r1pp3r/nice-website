@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Changed</key>
+				<false/>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Tesla Pro</key>
+					<dict/>
+					<key>Veerle</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCSS</key>
+				<string>header {
+    height: 70%;    
+    -webkit-transition: height 0.4s;
+    -moz-transition: height 0.4s;
+    transition: height 0.4s;
+}
+
+header.shrink {
+    height: 70%;
+}
+
+#navigation_bar.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    border-bottom: 5px solid #ffffff;
+}
+
+h1#site_title {
+	font-weight: bold;
+display: block;
+box-shadow: inset 0 0 0 100px rgba(96, 72, 123,0.4);
+-moz-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+-webkit-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+}
+
+h2#site_slogan {
+box-shadow: inset 0 0 0 100px rgba(96, 72, 123,0.4);
+-moz-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+-webkit-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+}</string>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomDocTypePrefix</key>
+				<string>&lt;?php 
+$groupswithaccess="CLIENT"; 
+require_once("../../slpw/sitelokpw.php"); 
+?&gt; 
+</string>
+				<key>CustomHeader</key>
+				<string>&lt;script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"&gt;&lt;/script&gt;
+</string>
+				<key>CustomJavaScript</key>
+				<string>// header photo shrink
+//$(window).scroll(function() {
+//	if ($(document).scrollTop() &gt; 30) {
+//		$('header').addClass("shrink");
+//  } else {
+  	//$('header').removeClass("shrink");
+//  }
+//});
+
+// header photo shrink
+//$(document).ready(setTimeout(function(){$('header').addClass("shrink");
+//}, 2000));
+
+//STICKY NAV
+//$(document).ready(function () {  
+//  var top = $('#navigation_bar').offset().top - parseFloat($('#navigation_bar').css('marginTop').replace(/auto/, 1));
+//  $(window).scroll(function (event) {
+    // what the y position of the scroll is
+//    var y = $(this).scrollTop();
+
+    // whether that's below the form
+//    if (y &gt;= top) {
+      // if so, ad the fixed class
+//      $('#navigation_bar').addClass('fixed');
+//    } else {
+      // otherwise remove it
+//      $('#navigation_bar').removeClass('fixed');
+//    }
+//  });
+//});</string>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>Hidden</key>
+				<true/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.php</string>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Tesla Pro</key>
+					<array>
+						<string>Banner Background.Custom Banner 1 (banner1.jpg)</string>
+						<string>Body Font.Noto Serif Font</string>
+						<string>Maximum Content Width.1060 px</string>
+						<string>Sidebar.Hidden</string>
+						<string>Site Slogan.Open Sans Font</string>
+						<string>Site Title.Arvo Font</string>
+						<string>Toggles.Animate Scroll Down</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>CreatedDate</key>
+				<date>2015-10-29T12:06:27Z</date>
+				<key>CustomThemeName</key>
+				<string>Tesla Pro</string>
+				<key>ID</key>
+				<string>page13</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Smarty Pants</string>
+				<key>PluginClassName</key>
+				<string>YHStacksPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>YourHead Software</string>
+					<key>Name</key>
+					<string>Stacks</string>
+					<key>Version</key>
+					<string>3.0.5</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2016-04-10T21:08:21Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>files/stacks-image-cd607ae.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							8QdG5D8ub0/tX8v8MsRt
+							4w==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+						<key>files/stacks_page_page13.css</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							vZccU9y1nud1LzCAtc+A
+							rA==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+						<key>files/stacks_page_page13.js</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							a4/VEI1cLnrlBAfV2qyU
+							aw==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+						<key>index.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							1kPLz3nNbq5ulZ6vuvqe
+							eg==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page13</string>
+					<key>SiteRoot</key>
+					<string>page7/page13</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

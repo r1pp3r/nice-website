@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Changed</key>
+				<false/>
+				<key>ColourStyles</key>
+				<dict/>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCSS</key>
+				<string>header {
+    height: 70%;    
+    -webkit-transition: height 0.4s;
+    -moz-transition: height 0.4s;
+    transition: height 0.4s;
+}
+
+header.shrink {
+    height: 70%;
+}
+
+#navigation_bar.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    border-bottom: 5px solid #ffffff;
+}
+
+h1#site_title {
+	font-weight: bold;
+display: block;
+box-shadow: inset 0 0 0 100px rgba(96, 72, 123,0.4);
+-moz-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+-webkit-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+}
+
+h2#site_slogan {
+box-shadow: inset 0 0 0 100px rgba(96, 72, 123,0.4);
+-moz-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+-webkit-box-shadow: inset 0 0 0 100px rgba(96, 72, 123, 0.4);
+}</string>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomDocTypePrefix</key>
+				<string>&lt;?php
+$groupswithaccess="ALL";
+require_once("../../slpw/sitelokpw.php");
+require_once("../../slpw/slupdateform.php");
+?&gt;</string>
+				<key>CustomHeader</key>
+				<string>&lt;?php sl_updateformhead(4,false); ?&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<false/>
+				<key>Hidden</key>
+				<true/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputFormat</key>
+				<string>Default</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>
