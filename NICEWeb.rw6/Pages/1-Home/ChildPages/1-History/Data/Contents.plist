@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>build</key>
-				<string>2948</string>
+				<string>2980</string>
 				<key>stacks3</key>
 				<data>
 				YnBsaXN0MDDUAAEAAgADAAQABQAGAikCKlgkdmVyc2lv
@@ -204,8 +204,8 @@
 				X9IAWgBbAg0CDllZSFRvcE5vZGWkAg0CDwIJAF9fEA9Z
 				SE5vZGVDb250YWluZXLTAKsAagAiAhECFQHQowISAhMC
 				FIBigGOAZKMCFgIXAhiAZYBmgGeAUl8QEkdsb2JhbCBD
-				b250ZW50IDM2MV8QEkdsb2JhbCBDb250ZW50IDcyOV8Q
-				Ekdsb2JhbCBDb250ZW50IDE3MtMAqwBqACICHgIfAK6g
+				b250ZW50IDcyOV8QEkdsb2JhbCBDb250ZW50IDE3Ml8Q
+				Ekdsb2JhbCBDb250ZW50IDM2MdMAqwBqACICHgIfAK6g
 				oIAb0wCrAGoAIgIiAiMArqCggBvTAKsAagAiAiYCJwCu
 				oKCAG18QD05TS2V5ZWRBcmNoaXZlctICKwIsAi0CLltz
 				dGFja3Mzcm9vdF8QEXN0YWNrczNwcm9wZXJ0aWVzgAGA
@@ -246,7 +246,7 @@
 				AAAAAgIAAAAAAAACLwAAAAAAAAAAAAAAAAAAGYc=
 				</data>
 				<key>version</key>
-				<string>3.0.5</string>
+				<string>3.1.0</string>
 			</dict>
 			<key>Files</key>
 			<array/>

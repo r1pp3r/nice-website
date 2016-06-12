@@ -91,7 +91,7 @@
 					<key>page1</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2016-04-10T21:08:28Z</date>
+						<date>2016-06-12T14:40:56Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -120,8 +120,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								fFROPPnvj2bl
-								VYarmf/rAw==
+								DreM+Gcij4E7
+								mcfNQlzPEQ==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -757,7 +757,7 @@
 					<key>page2</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2016-05-25T22:14:29Z</date>
+						<date>2016-06-12T14:56:40Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -766,8 +766,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								4DQvqaUI1yp0
-								KrMAlBHQHQ==
+								qaxQEdFuRl6O
+								63pz9V3sug==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -776,8 +776,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								g9kJoWkOIiuQ
-								Bu5GbX+P4Q==
+								9rB+NOp8Mr2v
+								yo9VuK8Mtg==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -786,8 +786,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								6gzbFJ8PUqNg
-								vd5xKUO5rg==
+								P5GgLPITDIh4
+								XonyYLYR/Q==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -796,8 +796,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								M8zn3pYsBijd
-								Fd5kolN/MQ==
+								CI3LeI6ZIFny
+								tYoN5hbfGw==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1505,7 +1505,7 @@
 					<key>rw:plugin:stacks</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2016-04-10T22:19:13Z</date>
+						<date>2016-06-12T14:40:55Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -1514,8 +1514,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								ZodD/nJYZ2+O
-								+Pm0fSpiPg==
+								nM+jLdTNG46D
+								9oiZ2FvV5g==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1534,8 +1534,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								FKQm0JB7Zg0c
-								bTs6zntJ3A==
+								/VzFO789YTEE
+								BtDFaoPO/A==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1544,8 +1544,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								Rcc3I4Ysb8Xr
-								PWlh2y1x+w==
+								QEpSVQL45bp+
+								k7nwLZ6DqQ==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1554,8 +1554,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								dqTyPGvnT9MJ
-								4ND9LCel3g==
+								uuSofB5d/0C6
+								o/SdUvU0eg==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1564,8 +1564,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								fIeHCrQNY8+4
-								hwwfGD+ZOQ==
+								+2UKrxBzb/uc
+								QXMHlha/AQ==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1574,8 +1574,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								37Avj20M7cAJ
-								7liHzGjx8w==
+								iR4/NAwRJrTH
+								wULl9uhoFg==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -1584,18 +1584,18 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								S1qEqvHJSF4G
-								DFA6D/jK2w==
+								kmyT0gH+Ucjz
+								UehYRomAww==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
 							</dict>
-							<key>jquery-2.1.4.min.js</key>
+							<key>jquery-2.2.2.min.js</key>
 							<dict>
 								<key>Digest</key>
 								<data>
-								+cev0Fcp8Q9V
-								tonza7IBcg==
+								HTVnjF7btjmr
+								eqXM4IVvVw==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -5360,7 +5360,7 @@
 				CV8QJEIxMzkzNjQ1LTkxNkMtNEU0RC04RDQyLTE3RTRF
 				RkEzM0RBMVtiYW5uZXIxLmpwZ18QJDU3QUFGQjFELTc4
 				MzYtNDdCQy1BQkJDLUYxOUZBQkY1MDlCQtI3Czg5V05T
-				LnRpbWUjQbz2W2GMLqmAC9I7PD0+WiRjbGFzc25hbWVY
+				LnRpbWUjQb0Nr7+Rg5SAC9I7PD0+WiRjbGFzc25hbWVY
 				JGNsYXNzZXNWTlNEYXRloj0/WE5TT2JqZWN00js8QUJe
 				UldTaXRlUmVzb3VyY2WiQz9eUldTaXRlUmVzb3VyY2XS
 				OzxFRlxOU011dGFibGVTZXSjRUc/VU5TU2V00wkKC0lL
