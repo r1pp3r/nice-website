@@ -8,7 +8,7 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>Changed</key>
-				<false/>
+				<true/>
 				<key>ColourStyles</key>
 				<dict>
 					<key>Tesla Pro</key>
@@ -89,6 +89,7 @@ box-shadow: inset 0 0 0 100px rgba(96, 72, 123,0.4);
 //  });
 //});
 
+/*
 $(document).ready(function()
 {
 	$('#fl-page2-17').hide();
@@ -110,7 +111,8 @@ $(document).ready(function()
     			$('#fl-page2-19').hide();
     		}
     });
-});</string>
+});
+*/</string>
 				<key>CustomSiteTitleUsed</key>
 				<false/>
 				<key>CustomSloganUsed</key>
