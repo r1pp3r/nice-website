@@ -757,7 +757,7 @@
 					<key>page2</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2016-06-12T14:56:40Z</date>
+						<date>2016-08-15T15:29:10Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -766,8 +766,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								qaxQEdFuRl6O
-								63pz9V3sug==
+								jOjy01Dx3kzL
+								fFCBLQoo4A==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -776,8 +776,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								9rB+NOp8Mr2v
-								yo9VuK8Mtg==
+								c/CtgjZF8lzS
+								vETtcGObJg==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -786,8 +786,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								P5GgLPITDIh4
-								XonyYLYR/Q==
+								SepRaOyI8CvV
+								ZdV2vAsKOw==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -796,8 +796,8 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								CI3LeI6ZIFny
-								tYoN5hbfGw==
+								fx8XgHdc+CtF
+								AmhvCdr2nQ==
 								</data>
 								<key>Size</key>
 								<integer>0</integer>
@@ -5347,41 +5347,43 @@
 				</dict>
 				<key>Site Resources</key>
 				<data>
-				YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVj
-				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGAcIExQVHyMz
-				NDU2PUFHS1FZXGBlaW1xdVUkbnVsbNMJCgsMDxJXTlMu
-				a2V5c1pOUy5vYmplY3RzViRjbGFzc6INDoACgAOiEBGA
-				BIASgBdYZGF0YWJhc2VUbm9kZdULFhcYGRobHB0eXklk
-				ZW50aWZpZXIgTWFwWFBhZ2UgTWFwWE5vZGUgTWFwWVJl
-				c291cmNlc4AWgAyAFYAOgAXSCgsgIqEhgAaAC9gkCyUm
-				JygpKissLS0vMC0yV0NoYW5nZWRcUHVibGlzaGVkVVJM
-				XVB1Ymxpc2hlZERhdGVUTmFtZVpJZGVudGlmaWVyWVRp
-				bWVTdGFtcFlGaWxlVG9rZW4IgAqAAIAAgAiAB4AAgAlf
-				ECRCMTM5MzY0NS05MTZDLTRFNEQtOEQ0Mi0xN0U0RUZB
-				MzNEQTFbYmFubmVyMS5qcGdfECQ1N0FBRkIxRC03ODM2
-				LTQ3QkMtQUJCQy1GMTlGQUJGNTA5QkLSNzg5OlokY2xh
-				c3NuYW1lWCRjbGFzc2VzXlJXU2l0ZVJlc291cmNlojs8
-				XlJXU2l0ZVJlc291cmNlWE5TT2JqZWN00jc4Pj9cTlNN
-				dXRhYmxlU2V0oz5APFVOU1NldNMJCgtCREahMIAHoSGA
-				BoAN0jc4SElfEBNOU011dGFibGVEaWN0aW9uYXJ5o0hK
-				PFxOU0RpY3Rpb25hcnnTCQoLTE5GoTCAB6FPgA+ADdQL
-				UlNUVVYRIVhDaGlsZHJlblZQYXJlbnRfEBJSZXByZXNl
-				bnRlZCBPYmplY3SAFIAQgBKABtIKC1pboIAR0jc4XV5e
-				TlNNdXRhYmxlQXJyYXmjXV88V05TQXJyYXnUC1JTVFVi
-				LS2AFIATgACAANIKC2ZboU+AD4AR0jc4amtfEBBSV1Nv
-				dXJjZUxpc3ROb2Rlomw8XxAQUldTb3VyY2VMaXN0Tm9k
-				ZdMJCgtub0agoIAN0jc4cnNfEBJSV1Jlc291cmNlRGF0
-				YWJhc2WidDxfEBJSV1Jlc291cmNlRGF0YWJhc2XSNzhK
-				dqJKPF8QD05TS2V5ZWRBcmNoaXZlctF5elRyb290gAEA
-				CAARABoAIwAtADIANwBSAFgAXwBnAHIAeQB8AH4AgACD
-				AIUAhwCJAJIAlwCiALEAugDDAM0AzwDRANMA1QDXANwA
-				3gDgAOIA8wD7AQgBFgEbASYBMAE6ATsBPQE/AUEBQwFF
-				AUcBSQFwAXwBowGoAbMBvAHLAc4B3QHmAesB+AH8AgIC
-				CQILAg0CDwIRAhMCGAIuAjICPwJGAkgCSgJMAk4CUAJZ
-				AmICaQJ+AoACggKEAoYCiwKMAo4CkwKiAqYCrgK3ArkC
-				uwK9Ar8CxALGAsgCygLPAuIC5QL4Av8DAAMBAwMDCAMd
-				AyADNQM6Az0DTwNSA1cAAAAAAAACAQAAAAAAAAB7AAAA
-				AAAAAAAAAAAAAAADWQ==
+				YnBsaXN0MDDUAQIDBAUGfn9YJHZlcnNpb25YJG9iamVj
+				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGgcIExQVHyMz
+				NDU2OkBESE5SWGBjZ2xwdHh8VSRudWxs0wkKCwwPEldO
+				Uy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzog0OgAKAA6IQ
+				EYAEgBSAGVhkYXRhYmFzZVRub2Rl1QsWFxgZGhscHR5e
+				SWRlbnRpZmllciBNYXBYUGFnZSBNYXBYTm9kZSBNYXBZ
+				UmVzb3VyY2VzgBiADoAXgBCABdIKCyAioSGABoAN2CQL
+				JSYnKCkqKywtLS8wMTJXQ2hhbmdlZFxQdWJsaXNoZWRV
+				UkxdUHVibGlzaGVkRGF0ZVROYW1lWklkZW50aWZpZXJZ
+				VGltZVN0YW1wWUZpbGVUb2tlbgiADIAAgACACIAHgAqA
+				CV8QJEIxMzkzNjQ1LTkxNkMtNEU0RC04RDQyLTE3RTRF
+				RkEzM0RBMVtiYW5uZXIxLmpwZ18QJDU3QUFGQjFELTc4
+				MzYtNDdCQy1BQkJDLUYxOUZBQkY1MDlCQtI3Czg5V05T
+				LnRpbWUjQb1iF19mQbOAC9I7PD0+WiRjbGFzc25hbWVY
+				JGNsYXNzZXNWTlNEYXRloj0/WE5TT2JqZWN00js8QUJe
+				UldTaXRlUmVzb3VyY2WiQz9eUldTaXRlUmVzb3VyY2XS
+				OzxFRlxOU011dGFibGVTZXSjRUc/VU5TU2V00wkKC0lL
+				TaEwgAehIYAGgA/SOzxPUF8QE05TTXV0YWJsZURpY3Rp
+				b25hcnmjT1E/XE5TRGljdGlvbmFyedMJCgtTVU2hMIAH
+				oVaAEYAP1AtZWltcXREhWENoaWxkcmVuVlBhcmVudF8Q
+				ElJlcHJlc2VudGVkIE9iamVjdIAWgBKAFIAG0goLYWKg
+				gBPSOzxkZV5OU011dGFibGVBcnJheaNkZj9XTlNBcnJh
+				edQLWVpbXGktLYAWgBWAAIAA0goLbWKhVoARgBPSOzxx
+				cl8QEFJXU291cmNlTGlzdE5vZGWicz9fEBBSV1NvdXJj
+				ZUxpc3ROb2Rl0wkKC3V2TaCggA/SOzx5el8QElJXUmVz
+				b3VyY2VEYXRhYmFzZaJ7P18QElJXUmVzb3VyY2VEYXRh
+				YmFzZdI7PFF9olE/XxAPTlNLZXllZEFyY2hpdmVy0YCB
+				VHJvb3SAAQAIABEAGgAjAC0AMgA3AFQAWgBhAGkAdAB7
+				AH4AgACCAIUAhwCJAIsAlACZAKQAswC8AMUAzwDRANMA
+				1QDXANkA3gDgAOIA5AD1AP0BCgEYAR0BKAEyATwBPQE/
+				AUEBQwFFAUcBSQFLAXIBfgGlAaoBsgG7Ab0BwgHNAdYB
+				3QHgAekB7gH9AgACDwIUAiECJQIrAjICNAI2AjgCOgI8
+				AkECVwJbAmgCbwJxAnMCdQJ3AnkCggKLApICpwKpAqsC
+				rQKvArQCtQK3ArwCywLPAtcC4ALiAuQC5gLoAu0C7wLx
+				AvMC+AMLAw4DIQMoAykDKgMsAzEDRgNJA14DYwNmA3gD
+				ewOAAAAAAAAAAgEAAAAAAAAAggAAAAAAAAAAAAAAAAAA
+				A4I=
 				</data>
 				<key>SiteAttributes</key>
 				<dict>
@@ -5475,7 +5477,7 @@
 						</dict>
 					</dict>
 					<key>PublishingSettingsConfigured</key>
-					<false/>
+					<true/>
 					<key>ShowBreadcrumbTrail</key>
 					<true/>
 					<key>ShowTidiedCode</key>
